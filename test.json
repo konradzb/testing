@@ -1,0 +1,10 @@
+{
+    "url": "https://raw.githubusercontent.com/konradzb/testing/refs/heads/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/konradzb/testing/refs/heads/main/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://raw.githubusercontent.com/konradzb/testing/refs/heads/main/test.yaml",
+        "name": "Foo2"
+    }]
+}
